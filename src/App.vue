@@ -1,5 +1,7 @@
-<template>//jsx here</template>
+<template>
+  <main-screen />
+</template>
 
 <script setup>
-// Javascript code here
+import MainScreen from "./components/MainScreen.vue";
 </script>
